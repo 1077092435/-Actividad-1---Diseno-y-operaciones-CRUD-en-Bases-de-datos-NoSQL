@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "663c42ba79da291e697d7d2b"
+  },
+  "nombre": "Paris Saint-Germain",
+  "pais": "Francia",
+  "entrenador": "Mauricio Pochettino"
+},
+{
+  "_id": {
+    "$oid": "663c42ba79da291e697d7d2c"
+  },
+  "nombre": "Manchester United",
+  "pais": "Inglaterra",
+  "entrenador": "Ralf Rangnick"
+},
+{
+  "_id": {
+    "$oid": "663c42ba79da291e697d7d2d"
+  },
+  "nombre": "Real Madrid",
+  "pais": "España",
+  "entrenador": "Carlo Ancelotti"
+},
+{
+  "_id": {
+    "$oid": "663c42ba79da291e697d7d2e"
+  },
+  "nombre": "Liverpool",
+  "pais": "Inglaterra",
+  "entrenador": "Jurgen Klopp"
+},
+{
+  "_id": {
+    "$oid": "663c42ba79da291e697d7d2f"
+  },
+  "nombre": "Manchester City",
+  "pais": "Inglaterra",
+  "entrenador": "Pep Guardiola"
+},
+{
+  "_id": {
+    "$oid": "663c42ba79da291e697d7d30"
+  },
+  "nombre": "Bayern Múnich",
+  "pais": "Alemania",
+  "entrenador": "Julian Nagelsmann"
+}]

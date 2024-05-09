@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "663c435c79da291e697d7d3b"
+  },
+  "nombre": "Juan Pérez",
+  "nacionalidad": "Español",
+  "experiencia": "10 años",
+  "liga": "La Liga"
+},
+{
+  "_id": {
+    "$oid": "663c435c79da291e697d7d3c"
+  },
+  "nombre": "Emily Smith",
+  "nacionalidad": "Inglesa",
+  "experiencia": "8 años",
+  "liga": "Premier League"
+},
+{
+  "_id": {
+    "$oid": "663c435c79da291e697d7d3d"
+  },
+  "nombre": "Luca Rossi",
+  "nacionalidad": "Italiano",
+  "experiencia": "12 años",
+  "liga": "Serie A"
+},
+{
+  "_id": {
+    "$oid": "663c435c79da291e697d7d3e"
+  },
+  "nombre": "Maria Garcia",
+  "nacionalidad": "Española",
+  "experiencia": "6 años",
+  "liga": "La Liga"
+},
+{
+  "_id": {
+    "$oid": "663c435c79da291e697d7d3f"
+  },
+  "nombre": "Hans Müller",
+  "nacionalidad": "Alemán",
+  "experiencia": "9 años",
+  "liga": "Bundesliga"
+},
+{
+  "_id": {
+    "$oid": "663d1799fcb42ea540595b9f"
+  },
+  "nombre": "Elena Rodríguez",
+  "nacionalidad": "Española",
+  "experiencia": "7 años",
+  "liga": "La Liga"
+}]

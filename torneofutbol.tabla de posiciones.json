@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "663c450f79da291e697d7d4c"
+  },
+  "Paris Saint-Germain": {
+    "puntos": 6,
+    "partidos_jugados": 2,
+    "ganados": 1,
+    "empatados": 0,
+    "perdidos": 1,
+    "goles_favor": 4,
+    "goles_contra": 4
+  }
+},
+{
+  "_id": {
+    "$oid": "663c450f79da291e697d7d4d"
+  },
+  "Manchester City": {
+    "puntos": 4,
+    "partidos_jugados": 2,
+    "ganados": 1,
+    "empatados": 1,
+    "perdidos": 0,
+    "goles_favor": 4,
+    "goles_contra": 3
+  }
+},
+{
+  "_id": {
+    "$oid": "663c450f79da291e697d7d4e"
+  },
+  "Real Madrid": {
+    "puntos": 3,
+    "partidos_jugados": 2,
+    "ganados": 1,
+    "empatados": 0,
+    "perdidos": 1,
+    "goles_favor": 5,
+    "goles_contra": 4
+  }
+},
+{
+  "_id": {
+    "$oid": "663c450f79da291e697d7d4f"
+  },
+  "Bayern Munich": {
+    "puntos": 2,
+    "partidos_jugados": 2,
+    "ganados": 0,
+    "empatados": 2,
+    "perdidos": 0,
+    "goles_favor": 3,
+    "goles_contra": 3
+  }
+},
+{
+  "_id": {
+    "$oid": "663c450f79da291e697d7d50"
+  },
+  "Liverpool": {
+    "puntos": 1,
+    "partidos_jugados": 2,
+    "ganados": 0,
+    "empatados": 1,
+    "perdidos": 1,
+    "goles_favor": 3,
+    "goles_contra": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "663c450f79da291e697d7d51"
+  },
+  "Manchester United": {
+    "puntos": 1,
+    "partidos_jugados": 2,
+    "ganados": 0,
+    "empatados": 1,
+    "perdidos": 1,
+    "goles_favor": 1,
+    "goles_contra": 3
+  }
+}]

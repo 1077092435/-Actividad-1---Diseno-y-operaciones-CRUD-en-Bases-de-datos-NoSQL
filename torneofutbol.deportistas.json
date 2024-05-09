@@ -1,0 +1,585 @@
+[{
+  "_id": {
+    "$oid": "663c409979da291e697d7ce8"
+  },
+  "nombre": "Lionel Messi",
+  "edad": 34,
+  "posicion": "Delantero",
+  "equipo_actual": "Paris Saint-Germain"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7ce9"
+  },
+  "nombre": "Neymar Jr.",
+  "edad": 30,
+  "posicion": "Delantero",
+  "equipo_actual": "Paris Saint-Germain"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7cea"
+  },
+  "nombre": "Sergio Ramos",
+  "edad": 36,
+  "posicion": "Defensa",
+  "equipo_actual": "Paris Saint-Germain"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7ceb"
+  },
+  "nombre": "Kylian Mbappé",
+  "edad": 23,
+  "posicion": "Delantero",
+  "equipo_actual": "Paris Saint-Germain"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7cec"
+  },
+  "nombre": "Marco Verratti",
+  "edad": 29,
+  "posicion": "Centrocampista",
+  "equipo_actual": "Paris Saint-Germain"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7ced"
+  },
+  "nombre": "Presnel Kimpembe",
+  "edad": 26,
+  "posicion": "Defensa",
+  "equipo_actual": "Paris Saint-Germain"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7cee"
+  },
+  "nombre": "Ángel Di María",
+  "edad": 34,
+  "posicion": "Delantero",
+  "equipo_actual": "Paris Saint-Germain"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7cef"
+  },
+  "nombre": "Achraf Hakimi",
+  "edad": 23,
+  "posicion": "Defensa",
+  "equipo_actual": "Paris Saint-Germain"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7cf0"
+  },
+  "nombre": "Keylor Navas",
+  "edad": 35,
+  "posicion": "Portero",
+  "equipo_actual": "Paris Saint-Germain"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7cf1"
+  },
+  "nombre": "Leandro Paredes",
+  "edad": 27,
+  "posicion": "Centrocampista",
+  "equipo_actual": "Paris Saint-Germain"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7cf2"
+  },
+  "nombre": "Marquinhos",
+  "edad": 27,
+  "posicion": "Defensa",
+  "equipo_actual": "Paris Saint-Germain"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7cf3"
+  },
+  "nombre": "Cristiano Ronaldo",
+  "edad": 37,
+  "posicion": "Delantero",
+  "equipo_actual": "Manchester United"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7cf4"
+  },
+  "nombre": "Bruno Fernandes",
+  "edad": 27,
+  "posicion": "Centrocampista",
+  "equipo_actual": "Manchester United"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7cf5"
+  },
+  "nombre": "David de Gea",
+  "edad": 31,
+  "posicion": "Portero",
+  "equipo_actual": "Manchester United"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7cf6"
+  },
+  "nombre": "Harry Maguire",
+  "edad": 29,
+  "posicion": "Defensa",
+  "equipo_actual": "Manchester United"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7cf7"
+  },
+  "nombre": "Paul Pogba",
+  "edad": 29,
+  "posicion": "Centrocampista",
+  "equipo_actual": "Manchester United"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7cf8"
+  },
+  "nombre": "Raphael Varane",
+  "edad": 29,
+  "posicion": "Defensa",
+  "equipo_actual": "Manchester United"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7cf9"
+  },
+  "nombre": "Jadon Sancho",
+  "edad": 22,
+  "posicion": "Delantero",
+  "equipo_actual": "Manchester United"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7cfa"
+  },
+  "nombre": "Luke Shaw",
+  "edad": 26,
+  "posicion": "Defensa",
+  "equipo_actual": "Manchester United"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7cfb"
+  },
+  "nombre": "Edinson Cavani",
+  "edad": 35,
+  "posicion": "Delantero",
+  "equipo_actual": "Manchester United"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7cfc"
+  },
+  "nombre": "Aaron Wan-Bissaka",
+  "edad": 24,
+  "posicion": "Defensa",
+  "equipo_actual": "Manchester United"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7cfd"
+  },
+  "nombre": "Karim Benzema",
+  "edad": 34,
+  "posicion": "Delantero",
+  "equipo_actual": "Real Madrid"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7cfe"
+  },
+  "nombre": "Luka Modric",
+  "edad": 36,
+  "posicion": "Centrocampista",
+  "equipo_actual": "Real Madrid"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7cff"
+  },
+  "nombre": "Thibaut Courtois",
+  "edad": 29,
+  "posicion": "Portero",
+  "equipo_actual": "Real Madrid"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d00"
+  },
+  "nombre": "Sergio Ramos",
+  "edad": 36,
+  "posicion": "Defensa",
+  "equipo_actual": "Real Madrid"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d01"
+  },
+  "nombre": "Vinícius Júnior",
+  "edad": 21,
+  "posicion": "Delantero",
+  "equipo_actual": "Real Madrid"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d02"
+  },
+  "nombre": "Casemiro",
+  "edad": 30,
+  "posicion": "Centrocampista",
+  "equipo_actual": "Real Madrid"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d03"
+  },
+  "nombre": "Ferland Mendy",
+  "edad": 26,
+  "posicion": "Defensa",
+  "equipo_actual": "Real Madrid"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d04"
+  },
+  "nombre": "Eder Militao",
+  "edad": 24,
+  "posicion": "Defensa",
+  "equipo_actual": "Real Madrid"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d05"
+  },
+  "nombre": "Federico Valverde",
+  "edad": 23,
+  "posicion": "Centrocampista",
+  "equipo_actual": "Real Madrid"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d06"
+  },
+  "nombre": "Rodrygo",
+  "edad": 21,
+  "posicion": "Delantero",
+  "equipo_actual": "Real Madrid"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d07"
+  },
+  "nombre": "Mohamed Salah",
+  "edad": 29,
+  "posicion": "Delantero",
+  "equipo_actual": "Liverpool"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d08"
+  },
+  "nombre": "Sadio Mané",
+  "edad": 29,
+  "posicion": "Delantero",
+  "equipo_actual": "Liverpool"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d09"
+  },
+  "nombre": "Virgil van Dijk",
+  "edad": 30,
+  "posicion": "Defensa",
+  "equipo_actual": "Liverpool"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d0a"
+  },
+  "nombre": "Alisson Becker",
+  "edad": 29,
+  "posicion": "Portero",
+  "equipo_actual": "Liverpool"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d0b"
+  },
+  "nombre": "Fabinho",
+  "edad": 28,
+  "posicion": "Centrocampista",
+  "equipo_actual": "Liverpool"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d0c"
+  },
+  "nombre": "Andrew Robertson",
+  "edad": 28,
+  "posicion": "Defensa",
+  "equipo_actual": "Liverpool"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d0d"
+  },
+  "nombre": "Trent Alexander-Arnold",
+  "edad": 23,
+  "posicion": "Defensa",
+  "equipo_actual": "Liverpool"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d0e"
+  },
+  "nombre": "Jordan Henderson",
+  "edad": 31,
+  "posicion": "Centrocampista",
+  "equipo_actual": "Liverpool"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d0f"
+  },
+  "nombre": "Diogo Jota",
+  "edad": 25,
+  "posicion": "Delantero",
+  "equipo_actual": "Liverpool"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d10"
+  },
+  "nombre": "Roberto Firmino",
+  "edad": 30,
+  "posicion": "Delantero",
+  "equipo_actual": "Liverpool"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d11"
+  },
+  "nombre": "Joel Matip",
+  "edad": 30,
+  "posicion": "Defensa",
+  "equipo_actual": "Liverpool"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d12"
+  },
+  "nombre": "Kevin De Bruyne",
+  "edad": 30,
+  "posicion": "Centrocampista",
+  "equipo_actual": "Manchester City"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d13"
+  },
+  "nombre": "Ruben Dias",
+  "edad": 24,
+  "posicion": "Defensa",
+  "equipo_actual": "Manchester City"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d14"
+  },
+  "nombre": "Ederson",
+  "edad": 28,
+  "posicion": "Portero",
+  "equipo_actual": "Manchester City"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d15"
+  },
+  "nombre": "Phil Foden",
+  "edad": 21,
+  "posicion": "Centrocampista",
+  "equipo_actual": "Manchester City"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d16"
+  },
+  "nombre": "Raheem Sterling",
+  "edad": 27,
+  "posicion": "Delantero",
+  "equipo_actual": "Manchester City"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d17"
+  },
+  "nombre": "Kyle Walker",
+  "edad": 31,
+  "posicion": "Defensa",
+  "equipo_actual": "Manchester City"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d18"
+  },
+  "nombre": "Riyad Mahrez",
+  "edad": 31,
+  "posicion": "Delantero",
+  "equipo_actual": "Manchester City"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d19"
+  },
+  "nombre": "Aymeric Laporte",
+  "edad": 27,
+  "posicion": "Defensa",
+  "equipo_actual": "Manchester City"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d1a"
+  },
+  "nombre": "Bernardo Silva",
+  "edad": 27,
+  "posicion": "Centrocampista",
+  "equipo_actual": "Manchester City"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d1b"
+  },
+  "nombre": "John Stones",
+  "edad": 27,
+  "posicion": "Defensa",
+  "equipo_actual": "Manchester City"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d1c"
+  },
+  "nombre": "Gabriel Jesus",
+  "edad": 24,
+  "posicion": "Delantero",
+  "equipo_actual": "Manchester City"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d1d"
+  },
+  "nombre": "Robert Lewandowski",
+  "edad": 33,
+  "posicion": "Delantero",
+  "equipo_actual": "Bayern Munich"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d1e"
+  },
+  "nombre": "Manuel Neuer",
+  "edad": 35,
+  "posicion": "Portero",
+  "equipo_actual": "Bayern Munich"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d1f"
+  },
+  "nombre": "Joshua Kimmich",
+  "edad": 27,
+  "posicion": "Centrocampista",
+  "equipo_actual": "Bayern Munich"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d20"
+  },
+  "nombre": "Alphonso Davies",
+  "edad": 21,
+  "posicion": "Defensa",
+  "equipo_actual": "Bayern Munich"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d21"
+  },
+  "nombre": "Thomas Müller",
+  "edad": 32,
+  "posicion": "Delantero",
+  "equipo_actual": "Bayern Munich"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d22"
+  },
+  "nombre": "Leon Goretzka",
+  "edad": 27,
+  "posicion": "Centrocampista",
+  "equipo_actual": "Bayern Munich"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d23"
+  },
+  "nombre": "David Alaba",
+  "edad": 29,
+  "posicion": "Defensa",
+  "equipo_actual": "Bayern Munich"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d24"
+  },
+  "nombre": "Leroy Sané",
+  "edad": 26,
+  "posicion": "Delantero",
+  "equipo_actual": "Bayern Munich"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d25"
+  },
+  "nombre": "Kingsley Coman",
+  "edad": 25,
+  "posicion": "Delantero",
+  "equipo_actual": "Bayern Munich"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d26"
+  },
+  "nombre": "Serge Gnabry",
+  "edad": 26,
+  "posicion": "Delantero",
+  "equipo_actual": "Bayern Munich"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d27"
+  },
+  "nombre": "Lucas Hernández",
+  "edad": 26,
+  "posicion": "Defensa",
+  "equipo_actual": "Bayern Munich"
+},
+{
+  "_id": {
+    "$oid": "663c409979da291e697d7d28"
+  },
+  "nombre": "Benjamin Pavard",
+  "edad": 25,
+  "posicion": "Defensa",
+  "equipo_actual": "Bayern Munich"
+}]

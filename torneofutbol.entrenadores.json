@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "663c430d79da291e697d7d33"
+  },
+  "nombre": "Mauricio Pochettino",
+  "equipo": "Paris Saint-Germain",
+  "nacionalidad": "Argentino",
+  "edad": 50
+},
+{
+  "_id": {
+    "$oid": "663c430d79da291e697d7d34"
+  },
+  "nombre": "Ralf Rangnick",
+  "equipo": "Manchester United",
+  "nacionalidad": "Alemán",
+  "edad": 63
+},
+{
+  "_id": {
+    "$oid": "663c430d79da291e697d7d35"
+  },
+  "nombre": "Carlo Ancelotti",
+  "equipo": "Real Madrid",
+  "nacionalidad": "Italiano",
+  "edad": 62
+},
+{
+  "_id": {
+    "$oid": "663c430d79da291e697d7d36"
+  },
+  "nombre": "Jurgen Klopp",
+  "equipo": "Liverpool",
+  "nacionalidad": "Alemán",
+  "edad": 54
+},
+{
+  "_id": {
+    "$oid": "663c430d79da291e697d7d37"
+  },
+  "nombre": "Pep Guardiola",
+  "equipo": "Manchester City",
+  "nacionalidad": "Español",
+  "edad": 51
+},
+{
+  "_id": {
+    "$oid": "663c430d79da291e697d7d38"
+  },
+  "nombre": "Julian Nagelsmann",
+  "equipo": "Bayern Múnich",
+  "nacionalidad": "Alemán",
+  "edad": 34
+}]
